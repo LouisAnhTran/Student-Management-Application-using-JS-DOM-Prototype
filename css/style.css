@@ -1,0 +1,15 @@
+.trSinhVien:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+.container__title{
+    margin: 10px 0px;
+}
+.notice{
+    color: orange;
+}
+.row_each_student:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}
